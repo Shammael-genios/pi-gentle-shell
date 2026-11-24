@@ -1,0 +1,9 @@
+{
+  "name": "pi-gentle-shell",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Adaptadores ODD manuales para Pi. El flujo vive en ODD.md; las copias upstream, en reference/skills.",
+  "pi": {
+    "skills": ["./adapters"]
+  }
+}
